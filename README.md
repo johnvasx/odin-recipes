@@ -1,7 +1,7 @@
 Odin Recipes
 
-It is the first project in "The Odin Project" showcasing HTML. It is a basic 
-website with links to multiple local HTML files as well as links found on the web.
+It is the first project in "The Odin Project" showcasing HTML. 
+This project is a basic website with links to multiple local HTML files as well as links found on the web.
 
 Odin Project Foundations: <a href="https://www.theodinproject.com/paths/foundations/courses/foundations/" rel="_blank">here</a>. 
 
