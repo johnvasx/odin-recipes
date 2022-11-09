@@ -10,15 +10,15 @@ body {
     box-sizing: border-box;
 }
 
-h1 { color: #d54d7b; font-family: "Great Vibes", Verdana, sans-serif; cursive; font-size: 50px; line-height: 80px; font-weight: normal; margin-bottom: 0px; margin-top: 10px; text-align: center; text-shadow: 0 1px 1px #fff; } */
-
-.photos {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    height: 100px;
-    width: auto;
-}
+h1 { color: #d54d7b; 
+    font-family: "Great Vibes", Verdana, sans-serif; cursive; 
+    font-size: 50px; 
+    line-height: 80px; 
+    font-weight: normal; 
+    margin-bottom: 0px; 
+    margin-top: 10px; 
+    text-align: center; 
+    text-shadow: 0 1px 1px #fff; }
 
 .pix{
     height: 280px;
